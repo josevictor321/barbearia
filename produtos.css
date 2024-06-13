@@ -105,3 +105,40 @@ form{
   padding: 10px 25px;
   width: 50%;
 }
+
+.checkbox{
+  margin: 20px 0;
+}
+
+.enviar{
+  width: 40%;
+  padding: 15px 0;
+  background: orange;
+  color: white;
+  font-weight: bold;
+  font-size: 20px 0;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 1.0s;
+}
+
+.enviar-hover{
+  background: darkorange;
+  transform: scale(0.8);
+}
+
+table{
+  margin: 20px 0 40px 0;
+}
+
+thead{
+  background: #555555;
+  color: white;
+  font-weight: bold;
+}
+
+td, th{
+  border: 1px solid #000000;
+  padding: 8px 15px;
+}
